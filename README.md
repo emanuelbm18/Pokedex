@@ -1,2 +1,1 @@
-# Pokedex
-Desafio DIO de Pokedex
+# Trilha JS Developer - Pokedex
