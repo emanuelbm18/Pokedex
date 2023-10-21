@@ -1,22 +1,17 @@
 class Pokemon {
-    number;
+    id;
     name;
-    types = [];
     type;
+    types = [];
     photo;
-    species;
     height;
     weight;
-    abilities;
-    eggGroups = [];
-    eggGroup;
-    genera;
+    ability = [];
     hp;
-    atk;
-    def;
+    attack;
+    defense;
     spAtk;
     spDef;
     speed;
     total;
-
 }
